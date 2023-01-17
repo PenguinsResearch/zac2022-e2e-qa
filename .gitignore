@@ -1,0 +1,20 @@
+# cache
+__pycache__
+*.py[cod]
+*$py.class
+.DS_Store
+.idea
+.vscode
+*.egg-info
+*.egg
+
+# virtualenv
+.venv
+.env
+env
+venv
+ENV
+
+# pretrained models
+saved_models
+data
