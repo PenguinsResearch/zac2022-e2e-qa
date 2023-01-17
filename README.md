@@ -24,7 +24,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.8 -c pytorch -c nvid
 pip install -r requirements.txt
 ```
 
-- Download pretrained models from [here](https://drive.google.com) and put them in `root`
+- Download pretrained models from [here](https://drive.google.com/file/d/1oEb1CNdXyLjyM8jo_30ata3RyFk8zEUJ/view?usp=share_link) and put them in `root`
 
 ## Requirements
 
