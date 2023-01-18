@@ -15,7 +15,7 @@ conda activate zaloqa
 - Install PyTorch and Torchvision following the [official instructions](https://pytorch.org/get-started/locally/), e.g.:
 
 ```bash
-conda install pytorch torchvision torchaudio cudatoolkit=11.8 -c pytorch -c nvidia
+conda install pytorch torchvision torchaudio cudatoolkit=11.6 -c pytorch -c nvidia
 ```
 
 - Install the required packages
